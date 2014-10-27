@@ -22,6 +22,7 @@
                 any of our products today. Each product listing has detailed 
                 information to help you choose the right product.
         Please Select categories and click on products
+    Added some categories
      <p>
        
 <?php include("include/layout/footer.php"); ?>
